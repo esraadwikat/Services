@@ -1,0 +1,6 @@
+PyMuPDF
+opencv-python
+python-docx
+
+requests 
+pillow
