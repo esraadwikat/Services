@@ -1,6 +1,3 @@
-PyMuPDF
-opencv-python
-python-docx
-
-requests 
-pillow
+version https://git-lfs.github.com/spec/v1
+oid sha256:d004a6923e262039ea8db91d0d759d3a28bd808f638c890ccf52531a7a10611b
+size 51

@@ -1,31 +1,3 @@
-[page44_image1.png]
-[page44_image2.png]
-[page44_image3.png]
-[page44_image4.png]
-[page44_image5.png]
-[page44_image6.png]
-[page44_image7.png]
-[page44_image8.png]
-[page44_image9.png]
-[page44_image10.png]
-[page44_image11.png]
-[page44_image12.png]
-[page44_image13.png]
-[page44_image14.png]
-[page44_image15.png]
-[page44_image16.png]
-[page44_image17.png]
-[page44_image18.png]
-[page44_image19.png]
-[page44_image20.png]
-[page44_image21.png]
-[page44_image22.png]
-[page44_image23.png]
-[page44_image24.png]
-[page44_image25.png]
-2
-الوحدة الثانية
-Genetics الــوراثـــــة
-الجينات الوراثية سر الحياة والتنوع
-»أنـا مقتنـع بأنـه لـن يمـر وقـت طويـل قبـل أن يعتـرف العالـم بأسـره بنتائـج أبحاثـي « غريغـور منـدل
-4040
+version https://git-lfs.github.com/spec/v1
+oid sha256:236b4f0a0fe0512bcff9e1e9d7c41f37c74bac2c3835c7af0c170083df412ed8
+size 878
